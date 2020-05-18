@@ -1,4 +1,5 @@
 module.exports = {
+    base:'/docs/',
     themeConfig: {
         logo: '/assets/img/logo.jpg',
         //   navbar: false,     //全局禁用导航栏
